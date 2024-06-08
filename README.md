@@ -16,4 +16,7 @@ __Features__
 
 - Scalable: Can be integrated into various traffic management systems and smart city infrastructures.
 
+![image](https://github.com/ShrutiRenuse18/Traffic_Management_with_YOLOv5/assets/100444153/af563346-53e1-4bce-b843-72887f145c81)
+
+![image](https://github.com/ShrutiRenuse18/Traffic_Management_with_YOLOv5/assets/100444153/d9d433aa-7e68-4572-9b3c-92566f5a6344)
 
